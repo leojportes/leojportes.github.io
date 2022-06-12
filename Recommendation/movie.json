@@ -2,13 +2,23 @@
     "movies": [
         {
             "id": 1,
-            "title": "Titulo filme 1",
-            "description": "descrição filme 1"
+            "title": "O Lobo de Wall Street",
+            "description": "Jordan Belfort é um ambicioso corretor da bolsa de valores que cria um verdadeiro império, enriquecendo de forma rápida, porém ilegal. Ele e seus amigos mergulham em um mundo de excessos, mas seus métodos ilícitos despertam a atenção da polícia.",
+            "release": "24 de janeiro de 2014",
+            "url_poster": "https://upload.wikimedia.org/wikipedia/pt/8/8d/The_Wolf_of_Wall_Street.jpg",
+            "url_netflix": "",
+            "url_amazon": "",
+            "url_appletv": ""
         },
         {
-            "id": 1,
+            "id": 2,
             "title": "Titulo filme 2",
-            "description": "descrição filme 2"
+            "description": "descrição filme 2",
+            "release": "",
+            "url_poster": "",
+            "url_netflix": "",
+            "url_amazon": "",
+            "url_appletv": ""
         }
     ]
 }
