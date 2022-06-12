@@ -12,10 +12,40 @@
         },
         {
             "id": 2,
-            "title": "Titulo filme 2",
-            "description": "descrição filme 2",
-            "release": "",
-            "url_poster": "",
+            "title": "A Grande Aposta",
+            "description": "Em 2008, o guru de Wall Street Michael Burry percebe que uma série de empréstimos feitos para o mercado imobiliário está em risco de inadimplência. Ele decide então apostar contra o mercado investindo mais de um bilhão de dólares dos seus investidores.",
+            "release": "14 de janeiro de 2016",
+            "url_poster": "https://upload.wikimedia.org/wikipedia/pt/7/76/The_Big_Short.jpg",
+            "url_netflix": "",
+            "url_amazon": "",
+            "url_appletv": ""
+        },
+        {
+            "id": 3,
+            "title": "Como ser Warren Buffett",
+            "description": "Tornando-se Warren Buffett é um documentário de 2017 sobre Warren Buffett e sua vida. O filme foi feito para a HBO.",
+            "release": "30 de janeiro de 2017",
+            "url_poster": "https://upload.wikimedia.org/wikipedia/en/f/fc/Becoming_Warren_Buffett_poster.jpg",
+            "url_netflix": "",
+            "url_amazon": "",
+            "url_appletv": ""
+        },
+        {
+            "id": 4,
+            "title": "A Procura da Felicidade",
+            "description": "Chris enfrenta sérios problemas financeiros e Linda, sua esposa, decide partir. Ele agora é pai solteiro e precisa cuidar de Christopher, seu filho de 5 anos. Chris tenta usar sua habilidade como vendedor para conseguir um emprego melhor, mas só consegue um estágio não remunerado.",
+            "release": "2 de fevereiro de 2007",
+            "url_poster": "https://upload.wikimedia.org/wikipedia/pt/1/1e/The_Pursuit_of_Happyness.jpg",
+            "url_netflix": "",
+            "url_amazon": "",
+            "url_appletv": ""
+        },
+        {
+            "id": 5,
+            "title": "Grande Demais para Quebrar",
+            "description": "Líderes financeiros entram em ação quando a economia dos Estados Unidos ameaça entrar em colapso no ano de 2008.",
+            "release": "23 de maio de 2011",
+            "url_poster": "https://upload.wikimedia.org/wikipedia/pt/9/97/Too_Big_to_Fail_film.jpg",
             "url_netflix": "",
             "url_amazon": "",
             "url_appletv": ""
