@@ -1,27 +1,18 @@
-
-{
-    "movies": [{
-        "title": "Filme 1",
-        "description": "Descrição filme 1"
+[
+    {
+    "movies": [
+        {
+        "title": "Titulo Filme"
         },
         {
-        "title": "Filme 2",
-        "description": "Descrição filme 2"
-        }],
-    "tvshows": [{
-        "title": "Série 1",
-        "description": "Descricao serie 1"
-        },
-        {
-        "title": "Série 2",
-        "description": "Descricao serie 2"
-        }],
-    "books": [{
-        "title": "Livro 1",
-        "description": "description livro 1"
-        },
-        {
-        "title": "Livro 2",
-        "description": "description livro 2"
-        }]
-}
+         "title": "Titulo Filme 2"   
+        }
+        ]
+    },
+    {
+    "userId": 1,
+    "id": 2,
+    "title": "qui est esse",
+    "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+    }
+    ]
