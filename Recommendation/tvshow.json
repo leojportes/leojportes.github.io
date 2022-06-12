@@ -1,0 +1,14 @@
+{
+    "tvshows": [
+        {
+            "id": 1,
+            "title": "Titulo série 1",
+            "description": "descrição série 1"
+        },
+        {
+            "id": 1,
+            "title": "Titulo série 2",
+            "description": "descrição série 2"
+        }
+    ]
+}
