@@ -2,33 +2,58 @@
     "tvshows": [
         {
             "id": 1,
-            "title": "Titulo série 1",
-            "description": "descrição série 1",
-            "release": "",
-            "url_poster": "",
+            "title": "Grande Demais para Quebrar",
+            "description": "O banqueiro Richard Fuld, entre março e outubro de 2008, em meio a conversas com personalidades como Hank Paulson (secretário do Tesouro estadunidense), Ben Bernanke e Tim Geithner tenta salvar o Lehman Brothers. Durante as negociações, buscava-se uma solução privada envolvendo banqueiros de investimento e membros do Congresso para preservar a empresa sediada em Nova York.",
+            "release": "23 mai, 2011",
+            "url_poster": "https://upload.wikimedia.org/wikipedia/pt/9/97/Too_Big_to_Fail_film.jpg",
+            "duration": "1h 39m",
             "url_netflix": "",
             "url_amazon": "",
-            "url_appletv": ""
+            "url_appletv": "https://tv.apple.com/br/movie/grande-demais-para-quebrar/umc.cmc.3vw9fg3qnr4gvxg183opatdg9"
         },
         {
             "id": 2,
-            "title": "Titulo série 2",
-            "description": "descrição série 2",
-            "release": "",
-            "url_poster": "",
-            "url_netflix": "",
-            "url_amazon": "",
-            "url_appletv": ""
+            "title": "O Lobo de Wall Street",
+            "description": "Jordan Belfort é um ambicioso corretor da bolsa de valores que cria um verdadeiro império, enriquecendo de forma rápida, porém ilegal. Ele e seus amigos mergulham em um mundo de excessos, mas seus métodos ilícitos despertam a atenção da polícia.",
+            "release": "24 jan, 2014",
+            "url_poster": "https://upload.wikimedia.org/wikipedia/pt/8/8d/The_Wolf_of_Wall_Street.jpg",
+            "duration": "3h",
+            "url_netflix": "https://www.netflix.com/title/70266676",
+            "url_amazon": "https://www.primevideo.com/detail/O-lobo-de-Wall-Street/0TVNRGT07EHGOFK5R0VC0E7WOQ?_encoding=UTF8&language=pt_BR",
+            "url_appletv": "https://tv.apple.com/br/movie/o-lobo-de-wall-street/umc.cmc.2tmr7hr6xnw1buspmujtvb9ep"
         },
         {
             "id": 3,
-            "title": "Titulo série 3",
-            "description": "descrição série 3",
-            "release": "",
-            "url_poster": "",
+            "title": "A Procura da Felicidade",
+            "description": "Chris enfrenta sérios problemas financeiros e Linda, sua esposa, decide partir. Ele agora é pai solteiro e precisa cuidar de Christopher, seu filho de 5 anos. Chris tenta usar sua habilidade como vendedor para conseguir um emprego melhor, mas só consegue um estágio não remunerado.",
+            "release": "2 fev, 2007",
+            "url_poster": "https://upload.wikimedia.org/wikipedia/pt/1/1e/The_Pursuit_of_Happyness.jpg",
+            "duration": "1h 57m",
+            "url_netflix": "https://www.netflix.com/title/70044605",
+            "url_amazon": "https://www.primevideo.com/detail/0MNLBAV7JLZMBLQSL8P5TR0L8B/ref=atv_dp_share_cu_r",
+            "url_appletv": "https://tv.apple.com/br/movie/a-procura-da-felicidade/umc.cmc.5elxsau2bij3kmoadwoomll4s"
+        },
+        {
+            "id": 4,
+            "title": "A Grande Aposta",
+            "description": "Em 2008, o guru de Wall Street Michael Burry percebe que uma série de empréstimos feitos para o mercado imobiliário está em risco de inadimplência. Ele decide então apostar contra o mercado investindo mais de um bilhão de dólares dos seus investidores.",
+            "release": "14 jan, 2016",
+            "url_poster": "https://upload.wikimedia.org/wikipedia/pt/7/76/The_Big_Short.jpg",
+            "duration": "2h 10m",
+            "url_netflix": "https://www.netflix.com/title/80075560",
+            "url_amazon": "https://www.primevideo.com/detail/La-Grande-Scommessa/0N0FY4VKGL4KBREB65TAOPPHRX/ref=atv_nb_lcl_pt_BR?language=pt_BR&ie=UTF8",
+            "url_appletv": "https://tv.apple.com/br/movie/a-grande-aposta/umc.cmc.7bpp98k5o2jxx401fwfddi5zg"
+        },
+        {
+            "id": 5,
+            "title": "Como ser Warren Buffett",
+            "description": "Como ser Warren Buffet” é o típico documentário inspirador e requisito para o jovem investidor. Trata de valores e “mindsets” inegavelmente importantes a serem levados no cotidiano como dedicação, organização, foco e humildade. O documentário é capaz de nos ajudar a pensar como Warren Buffet, por exemplo ao considerar as ações como um negócio, algo que muitos investidores relutam em fazer e também demonstrar um dos valores mais necessários e desvalorizados do mercado, disciplina financeira, que no longo prazo poupou milhões de dólares para Warren tendo em vista que o investidor não demonstrava interesse com gastos supérfluos e objetos de ostentação, grande prova disso é sua própria residência, na qual reside desde 1958 e foi avaliada no valor de U$31,5 mil.",
+            "release": "30 jan, 2017",
+            "url_poster": "https://upload.wikimedia.org/wikipedia/en/f/fc/Becoming_Warren_Buffett_poster.jpg",
+            "duration": "1h 30m",
             "url_netflix": "",
-            "url_amazon": "",
-            "url_appletv": ""
+            "url_amazon": "https://www.primevideo.com/detail/0RV82VXLD1UK69C7GSS1G51YGD/ref=atv_dp?language=pt_BR",
+            "url_appletv": "https://tv.apple.com/br/movie/como-ser-warren-buffett/umc.cmc.4o443doekdyp4knkaorem7gfr"
         }
     ]
 }
