@@ -3,12 +3,32 @@
         {
             "id": 1,
             "title": "Titulo série 1",
-            "description": "descrição série 1"
+            "description": "descrição série 1",
+            "release": "",
+            "url_poster": "",
+            "url_netflix": "",
+            "url_amazon": "",
+            "url_appletv": ""
         },
         {
-            "id": 1,
+            "id": 2,
             "title": "Titulo série 2",
-            "description": "descrição série 2"
+            "description": "descrição série 2",
+            "release": "",
+            "url_poster": "",
+            "url_netflix": "",
+            "url_amazon": "",
+            "url_appletv": ""
+        },
+        {
+            "id": 3,
+            "title": "Titulo série 3",
+            "description": "descrição série 3",
+            "release": "",
+            "url_poster": "",
+            "url_netflix": "",
+            "url_amazon": "",
+            "url_appletv": ""
         }
     ]
 }
