@@ -2,13 +2,57 @@
     "books": [
         {
             "id": 1,
-            "title": "Titulo livro 1",
-            "description": "descrição livro 1"
+            "title": "Mindset: A nova psicologia do sucesso",
+            "description": "A forma como lidamos com o dinheiro ― finanças pessoais, investimentos, decisões de negócios ― costuma ser explicada como um campo puramente matemático, no qual dados e fórmulas nos dizem o que fazer. A verdade, porém, é que grandes decisões monetárias não são tomadas diante de uma planilha, mas durante jantares com a família e reuniões com os colegas de trabalho.",
+            "url_poster": "https://images-na.ssl-images-amazon.com/images/I/41suUFbw-eL._SX346_BO1,204,203,200_.jpg",
+            "pageCount": "312 Páginas",
+            "externalLink": "https://ler.amazon.com.br/kp/embed?asin=B01NASOQGG&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_8T8ZFT3TXNYTY36DBW8T",
+            "release": "28 fev, 2006"
         },
         {
-            "id": 1,
-            "title": "Titulo livro 2",
-            "description": "descrição livro 2"
+            "id": 2,
+            "title": "A psicologia financeira",
+            "description": "Carol S. Dweck, ph.D., professora de psicologia na Universidade Stanford e especialista internacional em sucesso e motivação, desenvolveu, ao longo de décadas de pesquisa, um conceito fundamental: a atitude mental com que encaramos a vida, que ela chama de “mindset”, é crucial para o sucesso. Dweck revela de forma brilhante como o sucesso pode ser alcançado pela maneira como lidamos com nossos objetivos. O mindset não é um mero traço de personalidade, é a explicação de por que somos otimistas ou pessimistas, bem-sucedidos ou não.",
+            "url_poster": "https://images-na.ssl-images-amazon.com/images/I/41htlT5B29S._SX335_BO1,204,203,200_.jpg",
+            "pageCount": "304 Páginas",
+            "externalLink": "https://ler.amazon.com.br/kp/embed?asin=B08WBXHFBL&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_HT996SNN8Z3BTZ2PSCXY",
+            "release": "12 mar, 2021"
+        },
+        {
+            "id": 3,
+            "title": "Pai rico, Pai pobre",
+            "description": "Pai Rico, Pai Pobre demonstra que a questão não é ser empregado ou empregador, mas ter o controle do próprio destino ou delegá-lo a alguém. É essa a tese de Robert Kiyosaki neste livro substancial e visionário. Para ele, a formação proporcionada pelo sistema educacional não prepara os jovens para o mundo que encontrarão depois de formados.E como os pais podem ensinar aos filhos o que a escola relega? Essa é outra das muitas perguntas que o leitor encontra em Pai Rico, Pai Pobre.",
+            "url_poster": "https://images-na.ssl-images-amazon.com/images/I/51VKbEh8uSL._SX356_BO1,204,203,200_.jpg",
+            "pageCount": "336 Páginas",
+            "externalLink": "https://ler.amazon.com.br/kp/embed?asin=B07H4WYN5M&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_3PH59YHRMV9BFJEEE0F3",
+            "release": "26 jul, 2017"
+        },
+        {
+            "id": 4,
+            "title": "Pense & enriqueça",
+            "description": "Investigando a vida de diversos milionários da história dos Estados Unidos, como Thomas Edison, Henry Ford e Theodore Roosevelt, Napoleon Hill descobriu um segredo que poucos tinham desvendado: o que esses homens têm em comum que os fizeram ser tão bem-sucedidos? Pense & enriqueça revela os segredos da fortuna dos maiores milionários dos Estados Unidos. A partir de um programa de 13 passos, Napoleon Hill mostra o caminho certo para a riqueza e a felicidade.",
+            "url_poster": "https://images-na.ssl-images-amazon.com/images/I/31nuftrarbL._SY344_BO1,204,203,200_QL70_ML2_.jpg",
+            "pageCount": "336 Páginas",
+            "externalLink": "https://ler.amazon.com.br/kp/embed?asin=B088N86717&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_PH8F2SJ2Z5W5357ZGWEZ",
+            "release": "18 mar, 2019"
+        },
+        {
+            "id": 5,
+            "title": "Rápido e devagar: Duas formas de pensar",
+            "description": "Em Rápido e devagar: duas formas de pensar, Daniel Kahneman nos leva a uma viagem pela mente humana e explica as duas formas de pensar: uma é rápida, intuitiva e emocional; a outra, mais lenta, deliberativa e lógica. Kahneman expõe as capacidades extraordinárias - e também os defeitos e vícios - do pensamento rápido e revela a influência das impressões intuitivas nas nossas decisões.",
+            "url_poster": "https://images-na.ssl-images-amazon.com/images/I/31UDNUTPfJL._SX346_BO1,204,203,200_.jpg",
+            "pageCount": "608 Páginas",
+            "externalLink": "https://ler.amazon.com.br/kp/embed?asin=B00A3D1A44&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_X9NWZV5SE3GVK2WACC5B",
+            "release": "24 jul, 2012"
+        },
+        {
+            "id": 6,
+            "title": "O investidor inteligente",
+            "description": "Maior consultor de investimentos do século XX, Benjamin Graham ensinou e inspirou milhares de pessoas ao redor do mundo. Seu conceito de “valor de investimento” protege os investidores de cometer erros substanciais e os ensina a desenvolver estratégias de longo prazo. Isso fez com que O investidor inteligente se tornasse a bíblia do mercado de ações desde sua primeira publicação, em 1949.",
+            "url_poster": "https://images-na.ssl-images-amazon.com/images/I/41pQSUvxi1L._SX335_BO1,204,203,200_.jpg",
+            "pageCount": "672 Páginas",
+            "externalLink": "https://ler.amazon.com.br/kp/embed?asin=B01B3I5Y44&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_Q386QMJHSZKGVVMCR3YR",
+            "release": "25 jan, 2016"
         }
     ]
 }
